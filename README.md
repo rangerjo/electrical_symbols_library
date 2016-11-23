@@ -1,2 +1,4 @@
 # electrical_symbols_library
-fork of the electrical symbols libary svg published on Wikipedia
+
+## Installation
+Copy the electrical_symbols_library to the Inkscape share folder, e.g. /usr/share/inkscape/symbols/
